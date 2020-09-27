@@ -6,3 +6,6 @@ Day1.
 
 Day6.
 練習用的Sample
+
+Day18.
+介紹Line LIFF功能時，練習用的
